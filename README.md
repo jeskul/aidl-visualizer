@@ -8,13 +8,10 @@ Make sure [Graphviz](https://graphviz.org) is installed and that the 'dot' tool 
 
 ## Instructions:
 
-adb root
-
-adb shell ps -ef > my_inputfile.txt
-
-adb shell /system/bin/dumpsys --pid --clients > my_inputfile.txt
-
-./aidlizer.py -i my_inputfile.txt -o outputfile
+    adb root
+    adb shell ps -ef > my_inputfile.txt
+    adb shell /system/bin/dumpsys --pid --clients > my_inputfile.txt
+    ./aidlizer.py -i my_inputfile.txt -o outputfile
 
 
 Open outputfile.svg in your web browser or other tool
