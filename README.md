@@ -1,5 +1,6 @@
 # aidl-visualizer
-Tool to generate a visualization of AOSP AIDL binder connections
+Tool to generate a visualization of AOSP AIDL binder connections.
+
 The intended audience for this tool is developers that develop in AOSP
 i.e. making Android devices.
 
