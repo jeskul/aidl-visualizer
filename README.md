@@ -15,5 +15,3 @@ Make sure [Graphviz](https://graphviz.org) is installed and that the 'dot' tool 
 
 
 Open outputfile.svg in your web browser or other tool
-
-
