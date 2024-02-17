@@ -5,7 +5,7 @@ i.e. making Android devices.
 
 Make sure Graphviz is installed and that the 'dot' tool is in the path
 
-##Instructions:
+## Instructions:
 
 adb root
 
